@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#canvas {
+    position: absolute;
+}
+
+#mode {
+    position: absolute;
+    text-align: center;
+    width: 120px;
+    height: 30px;
+}
